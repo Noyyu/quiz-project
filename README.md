@@ -1,7 +1,7 @@
 # Mitt Go Quiz Project
 Ett interaktivt quiz-spel byggt i Go. Projektet är uppdelat i ett REST API (backend) och ett CLI-verktyg (frontend) som kommunicerar via HTTP och JSON.
 
-### Kom igång
+## Kom igång
 För att köra projektet behöver du ha Go installerat på din dator.
 
 #### 1. Starta API:et (Backend)
